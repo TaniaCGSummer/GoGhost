@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/0  Pantalla Inicial.unity
+    guid: 65bbb2fe1c8138f489b2170e5027e4ce
+  - enabled: 1
+    path: Assets/Scenes/1 Pantalla menu Principal 1.unity
+    guid: 27445949b89b18d43b057571daf0045a
+  - enabled: 1
+    path: Assets/Scenes/2 Escoger Niveles.unity
+    guid: e355b611e47a6e845b8f14bfec1a3413
+  - enabled: 1
+    path: Assets/Scenes/3 nivel 1.unity
+    guid: f3c04bbb40aee5d439d5f7ed6168198d
+  - enabled: 1
+    path: Assets/Scenes/4 nivel 2.unity
+    guid: 1f1adaba83c983c46ab068de22fa7d15
+  - enabled: 1
+    path: Assets/Scenes/5 nivel 3.unity
+    guid: 4e953f41dfc4c0d4d85546658a26d08f
+  - enabled: 1
+    path: Assets/Scenes/6 Opciones 1.unity
+    guid: a663685c08298eb47be964e472301567
+  - enabled: 1
+    path: Assets/Scenes/7 Ayuda 1.unity
+    guid: 5d22e44036d12384a954028e25a60819
+  - enabled: 1
+    path: Assets/Scenes/8 Info Desarrollador.unity
+    guid: 5e29324dd800a124a95e8c841fbd5231
+  - enabled: 1
+    path: Assets/Scenes/9 Panel logro.unity
+    guid: 7f83ed28a52d0a148aaf1b87d8fb21a0
+  - enabled: 1
+    path: Assets/Scenes/10 Info juego.unity
+    guid: 7c96a74d9ac52844e9f228e2afe96838
+  m_configObjects: {}
